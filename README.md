@@ -1,11 +1,8 @@
 # rAIght.move-backend
 
-FastAPI backend with endpoints for explaining mistakes during exercise performance.
-
 ## About
 
-This project is a backend service built with FastAPI to provide insights and explanations for mistakes made during exercise performance. It aims to help users improve their exercise routines by offering detailed feedback.
-
+This project is a backend service built with FastAPI to provide insights and explanations for mistakes made during exercise performance. It aims to help users improve their exercise routines by offering detailed feedback. This is part of the project for the completion of the Master's degree in Artificial Intelligence. **View Poster.pdf for a summary**
 ## Features
 
 - FastAPI framework for high performance
