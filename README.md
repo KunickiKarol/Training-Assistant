@@ -1,5 +1,5 @@
 # rAIght.move-backend
-**View Poster.pdf for a summary!!!**
+**View Poster.png for a summary!!!**
 
 ## About
 
