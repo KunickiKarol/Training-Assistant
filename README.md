@@ -1,6 +1,8 @@
 # rAIght.move-backend
 **View Poster.png for a summary!!!**
 
+![Example of segmentation and mistake recognition result](assets/example_result.gif)
+
 ## About
 
 This project is a backend service built with FastAPI to provide insights and explanations for mistakes made during exercise performance. It aims to help users improve their exercise routines by offering detailed feedback. This is part of the project for the completion of the Master's degree in Artificial Intelligence. 
